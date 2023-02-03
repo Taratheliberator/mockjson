@@ -29,7 +29,7 @@
     }
   ],
   "profile": {
-    "name": "Profile 1",
-    "name2": "Profile 2"
+    "user_email": "1@m.tu",
+    "user_password": "12345678"
   }
 }
