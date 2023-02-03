@@ -29,6 +29,7 @@
     }
   ],
   "profile": {
-    "name": "Profile 1"
+    "name": "Profile 1",
+    "name2": "Profile 2"
   }
 }
